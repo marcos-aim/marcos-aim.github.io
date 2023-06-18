@@ -1,3 +1,7 @@
+* {
+    font-family: Georgia;
+}
+
 nav {
     background-color: rgb(93, 54, 54);
     padding: 30px 0;
@@ -6,5 +10,5 @@ nav {
 nav li {
     display: inline-block;
     margin: 0 10px;
-
+    color: white
 }
